@@ -9,7 +9,7 @@ public class Fracao
     {
         if (denominador == 0)
         {
-            throw new ArgumentException("O denominador não pode ser zero!");
+            throw new ArgumentException("o denominador não pode ser zero");
         }
 
         if (denominador < 0)
@@ -37,7 +37,7 @@ public class Fracao
 
         if (denominador == 0)
         {
-            throw new ArgumentException("O denominador não pode ser zero!");
+            throw new ArgumentException("o denominador não pode ser zero");
         }
         if (denominador < 0)
         {
