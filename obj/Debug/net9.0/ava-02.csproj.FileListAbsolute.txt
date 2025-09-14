@@ -1,0 +1,14 @@
+Z:\ava-02\bin\Debug\net9.0\ava-02.exe
+Z:\ava-02\bin\Debug\net9.0\ava-02.deps.json
+Z:\ava-02\bin\Debug\net9.0\ava-02.runtimeconfig.json
+Z:\ava-02\bin\Debug\net9.0\ava-02.dll
+Z:\ava-02\bin\Debug\net9.0\ava-02.pdb
+Z:\ava-02\obj\Debug\net9.0\ava-02.GeneratedMSBuildEditorConfig.editorconfig
+Z:\ava-02\obj\Debug\net9.0\ava-02.AssemblyInfoInputs.cache
+Z:\ava-02\obj\Debug\net9.0\ava-02.AssemblyInfo.cs
+Z:\ava-02\obj\Debug\net9.0\ava-02.csproj.CoreCompileInputs.cache
+Z:\ava-02\obj\Debug\net9.0\ava-02.dll
+Z:\ava-02\obj\Debug\net9.0\refint\ava-02.dll
+Z:\ava-02\obj\Debug\net9.0\ava-02.pdb
+Z:\ava-02\obj\Debug\net9.0\ava-02.genruntimeconfig.cache
+Z:\ava-02\obj\Debug\net9.0\ref\ava-02.dll
